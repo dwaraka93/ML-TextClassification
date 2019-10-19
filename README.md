@@ -15,3 +15,5 @@ Implemented the MCAP Logistic Regression algorithm with L2 regularization. Tried
 SGDClassifier using GridSearchCV in scikit-learn
 
 The data set used is ham and spam mails for classification.
+http://www.hlt.utdallas.edu/~vgogate/ml/2019f/homeworks/hw2_train.zip
+http://www.hlt.utdallas.edu/~vgogate/ml/2019f/homeworks/hw2_test.zip
